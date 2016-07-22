@@ -8,5 +8,7 @@ if(ENABLE_TESTING)
 
   add_test (Test2 mytest 2)
   set_tests_properties (Test2 PROPERTIES PASS_REGULAR_EXPRESSION "-2.185")
+  
+  add_test (Test3 mytest)
 endif(ENABLE_TESTING)
 
