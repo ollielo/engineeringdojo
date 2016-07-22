@@ -3,8 +3,8 @@ engineeringdojo
 
 Software engineering dojo
 
-[![Build Status](https://travis-ci.org/junghans/engineeringdojo.svg?branch=master)](https://travis-ci.org/junghans/engineeringdojo)
-[![codecov.io](https://codecov.io/github/junghans/engineeringdojo/coverage.svg?branch=master)](https://codecov.io/github/junghans/engineeringdojo?branch=master)
+[![Build Status](https://travis-ci.org/ollielo/engineeringdojo.svg?branch=master)](https://travis-ci.org/ollielo/engineeringdojo)
+[![codecov.io](https://codecov.io/github/ollielo/engineeringdojo/coverage.svg?branch=master)](https://codecov.io/github/ollielo/engineeringdojo?branch=master)
 
 Steps
 -----
